@@ -1,0 +1,2 @@
+The idea of the module is taken from 
+S. Eschweiler, “Building A Real-Time Chat Application With Vue.js and Firebase - Part 1,” Medium, 11-Nov-2018. [Online]. Available: https://medium.com/codingthesmartway-com-blog/building-a-real-time-chat-application-with-vue-js-and-firebase-part-1-670c768ad860. [Accessed: 02-Aug-2020].
